@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ai-tools"
+version = "0.0.1"
+description = "Library for easy management of AI functions in the application"
+authors = ["Alicorn757 <jurykem@gmail.com>"]
+license = "Attribution-NonCommercial-ShareAlike 4.0 International"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+translate = "^3.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
