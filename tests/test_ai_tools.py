@@ -20,3 +20,5 @@ class TestAiTools(unittest.TestCase):
 # Executing the tests in the above test case class
 if __name__ == "__main__":
     unittest.main()
+
+# TODO: Добавить тесты на CreateLLMSession!!! Нужны ли они?
